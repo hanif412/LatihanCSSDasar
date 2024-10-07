@@ -1,0 +1,70 @@
+
+    /* * {
+        color: rgb(15, 226, 71);
+    } */
+        
+        h1, h2, h3 {      
+            font-size: medium;
+            text-align: center;
+            text-transform: capitalize;
+            color: rgb(245, 230, 24);
+            background-color: black;
+        }
+
+        input[type="text"] {
+            color: brown;
+        }
+
+        button {
+            background-color: tan;
+           
+        }
+
+        section p {    
+            text-align: unset;
+            line-height: 1.5 ;
+            font-size: 16px;
+            color: blue;
+        }
+
+        section:nth-of-type(2) {
+            background-color: grey;
+        }
+
+        section p::first-letter {
+            font-size: xx-large;
+            
+            color: red;
+        }
+
+        section p::first-line {
+            color: rgb(21, 212, 62);
+           
+        }
+
+
+        .jokes > p {
+            text-align: unset;
+            line-height: 1.5 ;
+            font-size: 16px;
+            color: rgb(228, 138, 21);
+        }
+
+        .jokes > p:hover {
+            cursor: pointer;
+            text-decoration: underline;
+        }
+
+        a + button {
+            background-color: gray;
+        }
+
+        #list1 {
+            color: rgb(221, 55, 213);
+        }
+
+        .mark {
+            background-color: aquamarine;
+        }
+
+       

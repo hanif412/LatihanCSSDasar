@@ -1,0 +1,19 @@
+div {
+    width: 300px;
+  
+    padding: 15px;
+    margin: 20px;
+}
+
+div {
+    border-style: dashed dotted solid double;
+    border-color: antiquewhite red blue yellow;
+    border-width: 5px 10px 15px 5px;
+}
+
+div {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 40px;
+    padding-left: 40px;
+}

@@ -1,0 +1,10 @@
+h1 {
+    background-color: aquamarine;
+    border: 2px solid black;
+}
+
+span {
+    background-color: blue;
+    border: 2px solid black;
+    width: 5px;
+}
